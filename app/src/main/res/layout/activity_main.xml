@@ -108,6 +108,7 @@
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
                     android:clickable="true"
+                    android:padding="1dp"
                     android:foreground="?android:attr/selectableItemBackground">
 
                     <LinearLayout
@@ -115,6 +116,7 @@
                         android:layout_height="match_parent"
                         android:gravity="center"
                         android:orientation="vertical">
+
 
                         <ImageView
                             android:layout_width="64dp"
